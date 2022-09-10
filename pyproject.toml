@@ -13,6 +13,8 @@ license = {text = "BSD 3-Clause License"}
 authors = [
   {email = "talley.lambert@gmail.com"},
   {name = "Talley Lambert"},
+  {email = "brisvag@gmail.com"},
+  {name = "Lorenzo Gaifas"},
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -49,8 +51,8 @@ dev = [
 ]
 
 [project.urls]
-homepage = "https://github.com/tlambert03/extra-pydantic"
-repository = "https://github.com/tlambert03/extra-pydantic"
+homepage = "https://github.com/brisvag/extra-pydantic"
+repository = "https://github.com/brisvag/extra-pydantic"
 
 # same as console_scripts entry point
 # [project.scripts]
